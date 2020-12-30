@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Bootcamp App</string>
+
+    <string name="my_profile">MY PROFILE</string>
+    <string name="my_name">Taiwo Farinu</string>
+    <string name="my_bio">Mobile developer</string>
+    <string name="my_email">farinupeter@gmail.com</string>
+    <string name="my_address">Under G, Ogbomoso</string>
+    <string name="calculate_cgpa">Calculate My CGPA</string>
+
+
+    <string name="course_name">Course</string>
+    <string name="score_text">Score</string>
+    <string name="grade_text">Grade</string>
+    <string name="unit_text">Unit</string>
+    <string name="point_text">Point</string>
+    <string name="calculate_cgpa_text">Calculate CGPA</string>
+    <string name="cgpa_calculator">CGPA CALCULATOR</string>
+
+    <string name="instructions">Enter all the scores and units</string>
+
+
+
+</resources>
